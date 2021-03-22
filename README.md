@@ -60,8 +60,9 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Installation
 ---
+Feel free to try any of the routes on the deployed heroku site, I have simply linked you to one so you are able to see it's working! 
 
-See deployed site here: 
+See deployed site here: https://calm-journey-93146.herokuapp.com/api/products
 
 See repository here: https://github.com/haleighspurlock/ecommerce-backend
 ## Contributing
