@@ -34,6 +34,10 @@ The following animation shows the applications POST routes to create new categor
 
 ![E-Commerce Back End](/assets/postman-create.gif)
 
+The following animation shows the applications PUT routes to update a category, a product, and a tag.
+
+![E-Commerce Back End](/assets/postman-update.gif)
+
 The following animation shows the applications DESTROY routes to delete a category, a product, and a tag.
 
 ![E-Commerce Back End](/assets/postman-delete.gif)
@@ -57,7 +61,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Installation
 ---
 
-See deployed site here: https://haleighspurlock.github.io/cecommerce-backened
+See deployed site here: 
 
 See repository here: https://github.com/haleighspurlock/ecommerce-backend
 ## Contributing
